@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">tipcalculator2</string>
+
+    <string name="total">Total</string>
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+    <string name="number_of_people">Number of People</string>
+    <string name="per_person_total">Per Person Total</string>
+    <string name="totalspinertext">$0.0</string>
+    <string name="tip">Tip</string>
+    <string name="no">No</string>
+    <string name="information">Information</string>
+    <string name="share">Share</string>
+    <string name="PercentageText">0%</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="TipText">$0.00</string>
+    <string name="TotalText">$0.00</string>
+
+</resources>
